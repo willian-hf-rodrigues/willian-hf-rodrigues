@@ -28,6 +28,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=willian-hf-rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/willian-hf-rodrigues">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamwillian_rodrigues"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamwillian_rodrigues"/>
   </a>
 </div>
