@@ -1,6 +1,6 @@
 < Hello world! />
 
-#Portuguese
+# Portuguese
 - 👋 Eu sou Willian Rodrigues
 - 👨‍🎓 Engenheiro de Software | Full Stack | Analista de Negocios Digitais
 - 👀 Me interesso por Ecommerce, Marketing Digital e IA
@@ -8,14 +8,14 @@
 - 💻 PHP, Laravel, Zend, JS, Python, Docker
 - 🧑‍💻 Atualmente estou estudando Flutter, NodeJS, GoLang e Elixir
 
-#English
+# English
 - 👋 Hi, I’m Willian Rodrigues
 - 👨‍🎓 Software Engineer | Full Stack | Digital Business Analyst
 - 👀 I’m interested in Ecommerce, Digital Marketing and AI
 - 🧑‍💻 I’m currently learning Flutter, NodeJS, GoLang and Elixir
 - 🥷 I’m an expert in Magento, Google Tag Manager, Google Merchant, Looker Studio and Google Analytics
 
-#Spanish
+# Spanish
 - 👋 Yo soy Willian Rodrigues
 - 👨‍🎓 Ingeniero de software | Full Stack | Analista de Negocios Digitales
 - 👀 Soy interesado por Ecommerce, Marketing Digital y IA
