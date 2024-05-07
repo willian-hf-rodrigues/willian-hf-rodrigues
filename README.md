@@ -22,17 +22,18 @@
 - 🥷 Soy especialista Magento, Google Tag Manager, Google Merchant, Looker Studio y Google Analytics
 - 🧑‍💻 Atualmente estoy estudiando Flutter, NodeJS, GoLang y Elixir
 
+### Github Stats
 <div>
   <a href="https://github.com/willian-hf-rodrigues">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=willian-hf-rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=willian-hf-rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/willian-hf-rodrigues">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-hf-rodrigues&layout=compact&langs_count=10&theme=dark&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willian-hf-rodrigues&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
   </a>
 </div>
 
 <div>
   <a href="https://github.com/willian-hf-rodrigues">
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamwillian_rodrigues&layout=compact"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamwillian_rodrigues&layout=compact"/>
   </a>
 </div>
