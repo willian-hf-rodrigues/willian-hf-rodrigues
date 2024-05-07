@@ -34,6 +34,6 @@
 
 <div>
   <a href="https://github.com/willian-hf-rodrigues">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamwillian_rodrigues&layout=compact"/>
+    <img height="400" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iamwillian_rodrigues&layout=compact"/>
   </a>
 </div>
